@@ -34,7 +34,10 @@ using namespace std;
 
 // 1. -> time complexity: O(2^n)
 // 2. -> time complexity: O(2^n)
-// 3. -> time complexity: O(n)
+
+
+// 3. -> time complexity: O(n*b*k)
+//-----------------------------------
 
 // describe what the code below do
 // 1. take the current element
